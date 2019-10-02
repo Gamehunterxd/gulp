@@ -9,4 +9,10 @@ function styles() {
 
 }
 
+function watch(){
+    gulp.watch("css/*.scss" , styles)
+}
+
+
 exports.styles = styles;
+exports.watch = watch;
