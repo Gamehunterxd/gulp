@@ -1,5 +1,5 @@
 {
-  "name": "gulpProject",
+  "name": "gulp_project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
   }
 }
