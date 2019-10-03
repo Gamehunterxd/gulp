@@ -1,3 +1,6 @@
 .idea
 node_modules
 /css/styles.css
+/css/styles.css.map
+/js/script.min.js
+
